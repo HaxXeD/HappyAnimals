@@ -14,4 +14,4 @@
 ![Tutorial](/screenshots/Tutorial2.png)
 
 ### In Game
-!.[Game](/screenshots/Game.png)
+![Game](/screenshots/Game.png)
